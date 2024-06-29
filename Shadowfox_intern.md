@@ -1,0 +1,1 @@
+This app is a simple e-commerce application specifically for electronic gadgets and accessories. This app has a simple home page, a product listing page, a product description page, and a page to show all the cart items.
